@@ -145,7 +145,7 @@ DBMS: SQLite
 ### [Daily Programming](https://github.com/SpencerAung/daily-programming)
 * Dec 2019 - PRESENT
 
-In this personal project, I tried to solve programming challenges posted in [reddit daily programmer](https://www.reddit.com/r/dailyprogrammer/) to practice problem solving and functional programming.
+In this personal project, I tried to solve programming challenges posted in [reddit daily programmer](https://www.reddit.com/r/dailyprogrammer/) to practice problem solving and functional programming skills.
 
 ```
 language: JavaScript
