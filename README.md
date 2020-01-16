@@ -32,13 +32,15 @@ Frameworks/Tools: React, React Native,  Redux, Redux-saga, Gatsby
 * May 2016 - May 2018
 
 ### Custom CLM Platform
-Innoboost Co., Ltd, Seoul — Full Stack Developer
+* 2017
+
+Custom CLM Campaign Platform allows sales reps to engage and track the progress of the CLM contents shared with the doctors. From a separate admin dashboard, marketers are able to track the nationwide progress of the campaign. Marketers can also broadcast message to sales reps, publish/hide CLM presentation, manage accounts. They can also generate the excel file containing all accounts and their progress. Additionally, they can also bulk upload the accounts in an excel file.
 
 ```
 Language: JavaScript
-Frameworks/Tools: React, Redux, Node.js, Webpack
+Frameworks/Tools: React, Redux, Node.js, Express, Webpack
 DBMS: MongoDB
-Platform: AWS
+Platform: AWS, EC2, S3
 ```
 
 #### Major contribution
@@ -47,11 +49,15 @@ Platform: AWS
 * Developed front-end for both end-user and admins using React
 
 ### [Ulthera](https://www.ulthera.co.kr/)
+* 2017
+
+Ulthera website allows the customers to register their purchased product code number and participate in promotional events. On website noticeboard, the customers can read announcements and send the message directly to admins.
+
 ```
 Language: JavaScript
-Frameworks/Tools: React, Redux,  Node.js, Webpack
+Frameworks/Tools: React, Redux,  Node.js, Express, Webpack
 DBMS: MongoDB
-Platform: AWS
+Platform: AWS, EC2
 ```
 
 #### Major contribution
@@ -59,6 +65,10 @@ Platform: AWS
 * Developed front-end client including multi-step forms for product code verification
 
 ### Drug Dosage Data Visualization App (iPad)
+* 2018
+
+Data visualization App allows the user to visualize and compare the effect of the drug usage over 8 days periods. As the user adjusts the inputs: dosage amount, the interval of dose taken, above and below threshold data, the chart redraws itself to reflect the changes in real time.
+
 ```
 Language: JavaScript
 Frameworks/Tools: React Native, Redux, Victory.js
