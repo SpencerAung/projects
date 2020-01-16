@@ -144,3 +144,18 @@ Platform: Netlify
 #### Features
 * Blog writing
 * Blog tags
+
+### [GoGoo Bear](https://gogoobear.com) [Underconstruction]
+* Jan 2020 - PRESENT
+
+Community for sharing trip information.
+```
+Language: JavaScript, Graphql
+Frameworks: React, Next.js, Node.js, Express, Apollo Server and Client, Sanctuary
+Platform: Heroku, Netlify
+```
+
+#### Features
+* Social Media Login
+* Compose trips
+* Follow fellow travellers
