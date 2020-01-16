@@ -24,7 +24,8 @@ Frameworks/Tools: React, React Native,  Redux, Redux-saga, Gatsby
 #### Major contribution
 * Developed reusable UI components using React and React Native
 * Developed business logic using redux and redux-saga in functional programming
-* Developed and maintained Korbit Exchange web and mobile app 
+* Developed features and maintained Korbit Exchange web
+* Developed and maintained Korbit Mobile App (Jun 2018 - Nov 2018)
 
 
 ## [Innoboost](https://innoboost.co.kr/) 
