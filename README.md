@@ -1,6 +1,6 @@
 # Projects
 
-I am a frontend developer at Korbit, which provides crypto trading and exchange services in South Korea. I mainly work with JavaScript, React, Graphql. I am eager to learn new things to expand my tech stack so I can make better services.
+I am a frontend developer at Korbit, which provides crypto trading and exchange services in South Korea. I have worked on small to medium size applications using JavaScript, React, Graphql. I am eager to learn new things to expand my tech stack so I can make better services.
 
 This repository contains a list of projects and experiences I have worked on over the course of my career.
 
@@ -8,6 +8,7 @@ This repository contains a list of projects and experiences I have worked on ove
 * [Korbit](#Korbit)
 * [Innoboost](#Innoboost)
 * [AADL Lab, Konkuk University, Seoul](#AADL-Lab,-Konkuk-University,-Seoul)
+* [Side Projects](#Side-Projects)
 
 ## [Korbit](https://www.korbit.co.kr)
 * Front-end Developer
@@ -126,3 +127,17 @@ DBMS: SQLite
 * Developed Windows GUI Application that integrates legacy analysis and calculation programs
 
 
+## Side Projects
+
+### [Personal Blog](https://spenceraung.me)
+* Nov 2018 - PRESENT
+
+```
+Language: JavaScript
+Frameworks: React, Gatsby
+Platform: Netlify
+```
+
+#### Features
+* Blog writing
+* Blog tags
