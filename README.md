@@ -7,7 +7,7 @@ This repository contains a list of projects and experiences I have worked on ove
 ## TOC
 * [Korbit](#Korbit)
 * [Innoboost](#Innoboost)
-* [AADL Lab, Konkuk University, Seoul](#AADL-Lab,-Konkuk-University,-Seoul)
+* [AADL Lab, Konkuk University, Seoul](#AADL-Lab-Konkuk-University-Seoul)
 * [Side Projects](#Side-Projects)
 
 ## [Korbit](https://www.korbit.co.kr)
