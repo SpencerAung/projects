@@ -4,6 +4,11 @@ I am a frontend developer at Korbit, which provides crypto trading and exchange 
 
 This repository contains a list of projects and experiences I have worked on over the course of my career.
 
+## TOC
+* [Korbit](#Korbit)
+* [Innoboost](#Innoboost)
+* [AADL Lab, Konkuk University, Seoul](#AADL-Lab,-Konkuk-University,-Seoul)
+
 ## [Korbit](https://www.korbit.co.kr)
 * Front-end Developer
 * May 2018 - PRESENT
