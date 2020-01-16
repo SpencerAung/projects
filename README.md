@@ -1,10 +1,10 @@
 # Projects
 
-## Korbit
+## [Korbit](https://www.korbit.co.kr)
 * Front-end Developer
 * May 2018 - PRESENT
 
-### Korbit Exchange Web and Mobile (https://www.korbit.co.kr/)
+### [Korbit Exchange Web and Mobile](https://www.korbit.co.kr/)
 
 ```
 Language: JavaScript, Graphql
@@ -12,12 +12,12 @@ Frameworks/Tools: React, React Native,  Redux, Redux-saga, Gatsby
 ```
 
 #### Major contribution
-Developed reusable UI components using React and React Native
-Developed business logic using redux and redux-saga in functional programming
-Developed and maintained Korbit Exchange web and mobile app 
+* Developed reusable UI components using React and React Native
+* Developed business logic using redux and redux-saga in functional programming
+* Developed and maintained Korbit Exchange web and mobile app 
 
 
-## Innoboost 
+## [Innoboost](https://innoboost.co.kr/) 
 * Full Stack Developer
 * May 2016 - May 2018
 
@@ -31,11 +31,11 @@ DBMS: MongoDB
 ```
 
 #### Major contribution
-Developed nationwide CLM progress tracking platform API using Node.js
-Developed regional progress calculation using MongoDB aggregation framework
-Developed front-end for both end-user and admins using React
+* Developed nationwide CLM progress tracking platform API using Node.js
+* Developed regional progress calculation using MongoDB aggregation framework
+* Developed front-end for both end-user and admins using React
 
-### Ulthera (https://www.ulthera.co.kr/)
+### [Ulthera](https://www.ulthera.co.kr/)
 ```
 Language: JavaScript
 Frameworks/Tools: React, Redux,  Node.js, AWS, Webpack
@@ -43,8 +43,8 @@ DBMS: MongoDB
 ```
 
 #### Major contribution
-Developed API for verifying product code, notice board management
-Developed front-end client including multi-step forms for product code verification
+* Developed API for verifying product code, notice board management
+* Developed front-end client including multi-step forms for product code verification
 
 ### Drug Dosage Data Visualization App (iPad)
 ```
@@ -52,9 +52,9 @@ Language: JavaScript
 Frameworks/Tools: React Native, Redux, Victory.js
 ```
 #### Major contribution
-Developed real time data visualization chart using Victory.js
-Developed redux store for input variable and side effect to re-render chart
-Developed custom slider component in React Native
+* Developed real time data visualization chart using Victory.js
+* Developed redux store for input variable and side effect to re-render chart
+* Developed custom slider component in React Native
 
 ### Remote Control App (iPad)
 ```
@@ -62,8 +62,8 @@ Language: JavaScript
 Frameworks/Tools: React Native, Socket.io, Node.js
 ```
 #### Major contribution
-Developed real time remote presentation controlling app using React Native and  Socket.io
-Developed method to control current presentation session
+* Developed real time remote presentation controlling app using React Native and Socket.io
+* Developed method to control current presentation session
 
 ### Various Veeva CLM Multichannel Presentations
 ```
@@ -71,7 +71,7 @@ Language: HTML/CSS, JavaScript
 Frameworks/Tools: jQuery, Salesforce, Veeva Platform
 ```
 #### Major contribution
-Developed 30+ HTML Veeva CLM Multichannel Presentations for pharmaceutical companies such as GSK, BMS, Pfizer
+* Developed 30+ HTML Veeva CLM Multichannel Presentations for pharmaceutical companies such as GSK, BMS, Pfizer
 * Obtained Veeva CLM Certification on behalf of Innoboost Co., Ltd
 * Obtained Veeva Approved Email Certification on behalf of Innoboost Co., Ltd
 
@@ -87,7 +87,7 @@ Language: C#
 Frameworks/Tools: X-Plane
 ```
 #### Major contribution
-Developed Windows console application that input  flight data from CSV file into X-Plane using UDP connection to simulate real flight
+* Developed Windows console application that input  flight data from CSV file into X-Plane using UDP connection to simulate real flight
 
 
 ## AADL Lab, Konkuk University, Seoul 
@@ -102,8 +102,8 @@ DBMS: MySQL
 ```
 
 #### Major contribution
-Developed API for calculating preliminary sizing and configuration of a light aircraft
-Developed a thin mobile client that consumes the API using Phonegap framework
+* Developed API for calculating preliminary sizing and configuration of a light aircraft
+* Developed a thin mobile client that consumes the API using Phonegap framework
 
 
 ### Integrated Fluid-thermal-analysis Tool for Air Intake Structure of High Speed Vehicle
@@ -114,6 +114,6 @@ DBMS: SQLite
 ```
 
 #### Major contribution
-Developed Windows GUI Application that integrates legacy analysis and calculation programs
+* Developed Windows GUI Application that integrates legacy analysis and calculation programs
 
 
