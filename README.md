@@ -1,5 +1,9 @@
 # Projects
 
+I am a frontend developer at Korbit, which provides crypto trading and exchange services in South Korea. I mainly work with JavaScript, React, Graphql. I am eager to learn new things to expand my tech stack so I can make better services.
+
+This repository contains a list of projects and experiences I have worked on over the course of my career.
+
 ## [Korbit](https://www.korbit.co.kr)
 * Front-end Developer
 * May 2018 - PRESENT
