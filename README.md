@@ -36,8 +36,9 @@ Innoboost Co., Ltd, Seoul — Full Stack Developer
 
 ```
 Language: JavaScript
-Frameworks/Tools: React, Redux, Node.js, AWS, Webpack
+Frameworks/Tools: React, Redux, Node.js, Webpack
 DBMS: MongoDB
+Platform: AWS
 ```
 
 #### Major contribution
@@ -48,8 +49,9 @@ DBMS: MongoDB
 ### [Ulthera](https://www.ulthera.co.kr/)
 ```
 Language: JavaScript
-Frameworks/Tools: React, Redux,  Node.js, AWS, Webpack
+Frameworks/Tools: React, Redux,  Node.js, Webpack
 DBMS: MongoDB
+Platform: AWS
 ```
 
 #### Major contribution
@@ -78,7 +80,8 @@ Frameworks/Tools: React Native, Socket.io, Node.js
 ### Various Veeva CLM Multichannel Presentations
 ```
 Language: HTML/CSS, JavaScript
-Frameworks/Tools: jQuery, Salesforce, Veeva Platform
+Frameworks/Tools: jQuery
+Platform: Salesforce, Veeva Platform
 ```
 #### Major contribution
 * Developed 30+ HTML Veeva CLM Multichannel Presentations for pharmaceutical companies such as GSK, BMS, Pfizer
