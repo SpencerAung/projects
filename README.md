@@ -6,9 +6,22 @@ This repository contains a list of projects and experiences I have worked on ove
 
 ## TOC
 * [Korbit](#Korbit)
+	- [Korbit Exchange Web](#korbit-exchange-web)
+	- [Korbit Exchange Mobile App](#korbit-exchange-mobile-app)
 * [Innoboost](#Innoboost)
+	- [Drug Dosage Data Visualization App](#drug-dosage-data-visualization-app)
+	- [Custom CLM Platform](#custom-clm-platform)
+	- [Presentation Navigator App](#presentation-navigator-app)
+	- [Ulthera Website](#ulthera-website)
+	- [Various Veeva CLM Multichannel Presentations](#various-veeva-clm-multichannel-presentations)
 * [AADL Lab, Konkuk University, Seoul](#AADL-Lab-Konkuk-University-Seoul)
+	- [UDP Client for X-Plane Flight Simulation](#udp-client-for-x-plane-flight-simulation)
+	- [Light Aircraft Preliminary Sizing Web Service API and Android App](#light-aircraft-preliminary-sizing-web-service-api-and-android-app)
+	- [Integrated Fluid-thermal-analysis Tool for Air Intake Structure of High Speed Vehicle](#integrated-fluid-thermal-analysis-tool-for-air-intake-structure-of-high-speed-vehicle)
 * [Side Projects](#Side-Projects)
+	- [Daily Programming](#daily-programming)
+	- [Personal Blog](#personal-blog)
+	- [GoGoo Bear](#gogoo-bear-%E2%9A%A0%EF%B8%8F)
 
 ## [Korbit](https://www.korbit.co.kr)
 
@@ -33,7 +46,7 @@ This repository contains a list of projects and experiences I have worked on ove
 * Full Stack Developer
 * May 2016 - May 2018
 
-### Drug Dosage Data Visualization App (iPad)
+### Drug Dosage Data Visualization App
 * Period: March 2018 - March 2018
 * Description:
 	- Data visualization App allows the user to visualize and compare the effect of the drug usage over 8 days periods. As the user adjusts the inputs: dosage amount, the interval of dose taken, above and below threshold data, the chart redraws itself to reflect the changes in real time.
@@ -43,6 +56,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Control chart state using Redux store
 	- Developed custom slide component in React Native
 * Tech Used: JavaScript, React Native, Redux, Victory.js
+* Target Platform: iPad
 
 ### Custom CLM Platform
 * Period: Sept 2017 - Nov 2017
@@ -55,7 +69,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Developed front-end for both end-user and admins using React
 * Tech Used: JavaScript, React, Redux, Node.js, Express, Webpack, MongoDB, AWS
 
-### Presentation Navigator App (iPad)
+### Presentation Navigator App
 * Period: Oct 2017 - Oct 2017
 * Role: Full Stack Developer
 * Contribution:
@@ -63,6 +77,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Developed front-end for presentation UI
 	- Developed iPad app which sends navigation requests to API to change presentation slides
 * Tech Used: JavaScript, React Native, socket.io, Node.js
+* Target Platform: iPad
 
 ### [Ulthera Website](https://www.ulthera.co.kr/)
 * Period: July 2017 - Aug 2017
@@ -133,7 +148,7 @@ This repository contains a list of projects and experiences I have worked on ove
 * Tech Used: JavaScript, Gatsby, React, Netlify
 * Result: https://spenceraung.me
 
-### [GoGoo Bear](https://gogoobear.com) [Underconstruction]
+### [GoGoo Bear](https://gogoobear.com) ⚠️
 * Period: Jan 2020
 * Description;
 	- Community for sharing trip information
