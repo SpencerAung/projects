@@ -152,7 +152,7 @@ This repository contains a list of projects and experiences I have worked on ove
 * Period: Jan 2020
 * Description;
 	- Community for sharing trip information
-	- I am still figuring out the feature of this project. Rough idea inlude social media login, composing trips, following fellow travelers
+	- I am still figuring out the features for this project. Rough idea inludes social media login, composing trips, following fellow travelers
 	- I intend to practice making graphql server and client in this project
 * Tech Used: JavaScript, Graphql, React, Next.js, Node.js, Expess, Apollo Server and Client, Sanctuary, Heroku, Netlify, MongoDB
 * Result: https://gogoobear.com (This is undercontruction. So expect to see things breaking!)
