@@ -9,6 +9,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- [Korbit Exchange Web](#korbit-exchange-web)
 	- [Korbit Exchange Mobile App](#korbit-exchange-mobile-app)
 * [Innoboost](#Innoboost)
+	- [MailChimp Survey Campaign Web App](#mailchimp-survey-campaign-web-app)
 	- [Drug Dosage Data Visualization App](#drug-dosage-data-visualization-app)
 	- [Custom CLM Platform](#custom-clm-platform)
 	- [Presentation Navigator App](#presentation-navigator-app)
