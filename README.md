@@ -14,6 +14,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- [Custom CLM Platform](#custom-clm-platform)
 	- [Presentation Navigator App](#presentation-navigator-app)
 	- [Ulthera Website](#ulthera-website)
+	- [Neobelle Event Website](#neobell-event-website)
 	- [Various Veeva CLM Multichannel Presentations](#various-veeva-clm-multichannel-presentations)
 * [AADL Lab, Konkuk University, Seoul](#AADL-Lab-Konkuk-University-Seoul)
 	- [UDP Client for X-Plane Flight Simulation](#udp-client-for-x-plane-flight-simulation)
@@ -56,7 +57,7 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Developed API for managing survey and connect MailChimp API and Twilio SMS API
 	- Developed admin dashboard for managing surveys, accounts, and user segments
 	- Developed web app for audience to take part in survey and see the results
-* Tech Used: JavaScript, React, Redux, Node.js, Express, MailChimp API, Twilio SMS API
+* Tech Used: JavaScript, React, Redux, Node.js, Express, MailChimp API, Twilio SMS API, MongoDB
 
 ### Drug Dosage Data Visualization App
 * Period: March 2018 - March 2018
@@ -101,6 +102,16 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Developed front-end client including multi-step forms for product code verification
 * Tech Used: JavaScript, React, Redux, Node.js, Express, Webpack, MongoDB, AWS, EC2
 * Result: https://www.ulthera.co.kr
+
+### Neobelle - Event Website
+* Period: April 2017 - April 2017
+* Role: Full Stack Developer
+* Contribution:
+	- Developed API that allows user to participate in event by uploading picture and text
+	- Developed website for audience to participate in event
+	- Developed admin dashboard to manage the event
+* Tech Used: JavaScript, Node.js, Express, MongoDB, React, Redux
+* Result: https://neobelle.me [No longer active]
 
 ### Various Veeva CLM Multichannel Presentations
 * Period: May 2016 - May 2018 
