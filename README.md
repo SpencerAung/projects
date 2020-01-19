@@ -46,6 +46,17 @@ This repository contains a list of projects and experiences I have worked on ove
 * Full Stack Developer
 * May 2016 - May 2018
 
+### MailChimp Survey Campaign Web App
+* Period: April 2018 - May 2018
+* Description:
+	- The service allows user to manage surveys with MailChimp campaigns. The audience can opt-in or out of the campaign by sending a keyword in SMS to specified phone number
+* Role: Full Stack Developer
+* Contribution:
+	- Developed API for managing survey and connect MailChimp API and Twilio SMS API
+	- Developed admin dashboard for managing surveys, accounts, and user segments
+	- Developed web app for audience to take part in survey and see the results
+* Tech Used: JavaScript, React, Redux, Node.js, Express, MailChimp API, Twilio SMS API
+
 ### Drug Dosage Data Visualization App
 * Period: March 2018 - March 2018
 * Description:
