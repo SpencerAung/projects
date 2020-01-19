@@ -111,7 +111,9 @@ This repository contains a list of projects and experiences I have worked on ove
 	- Developed website for audience to participate in event
 	- Developed admin dashboard to manage the event
 * Tech Used: JavaScript, Node.js, Express, MongoDB, React, Redux
-* Result: https://neobelle.me [No longer active]
+* Result:
+	- https://neobelle.me [No longer active]
+	- https://event.neobelle.me [No longer active]
 
 ### Various Veeva CLM Multichannel Presentations
 * Period: May 2016 - May 2018 
