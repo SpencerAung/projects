@@ -23,6 +23,7 @@ This repository contains a list of projects and experiences I have worked on ove
 * [Side Projects](#Side-Projects)
 	- [Daily Programming](#daily-programming)
 	- [Personal Blog](#personal-blog)
+	- [Coronavirus Info Website](#coronavirus-info-website)
 	- [GoGoo Bear](#gogoo-bear-%E2%9A%A0%EF%B8%8F)
 
 ## [Korbit](https://www.korbit.co.kr)
@@ -172,6 +173,15 @@ This repository contains a list of projects and experiences I have worked on ove
 	- It is built with Gatsby static site generator and hosted on Netlify
 * Tech Used: JavaScript, Gatsby, React, Netlify
 * Result: https://spenceraung.me
+* Github: https://github.com/SpencerAung/spenceraung.me
+
+### [Coronavirus Info Website](https://coronavirus-info.now.sh)
+* Period: Feb 2020
+* Description:
+	- I made a simple page that shows the coronvavirus infection status and latest news from all over the world.
+* Tech Used: JavaScript, React, Next.js, AirTable, NewsAPI
+* Result: https://coronavirus-info.now.sh
+* Github: https://github.com/SpencerAung/coronavirus-info
 
 ### [GoGoo Bear](https://gogoobear.com) ⚠️
 * Period: Jan 2020
